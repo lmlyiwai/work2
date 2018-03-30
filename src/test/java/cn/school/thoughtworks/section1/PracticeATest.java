@@ -1,5 +1,4 @@
 package cn.school.thoughtworks.section1;
-
 import org.junit.Before;
 import org.junit.Test;
 
